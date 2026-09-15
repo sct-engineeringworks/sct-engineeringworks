@@ -2,7 +2,7 @@
 
 ### Mechanical Design · Precision Metrology · Technical Project Delivery
 
-I design and validate precision mechanical systems, metrology equipment, automated test benches, and special-purpose machines. My work connects requirements, CAD, prototyping, verification, calibration, and production transfer.
+Based in Ottawa, Canada, I design and validate precision mechanical systems, metrology equipment, automated test benches, and special-purpose machines. My work connects requirements, CAD, prototyping, verification, calibration, and production transfer.
 
 [Explore the portfolio](https://sct-engineeringworks.github.io) · [Voir le résumé en français](#résumé-en-français)
 
