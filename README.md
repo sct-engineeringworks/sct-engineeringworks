@@ -2,7 +2,7 @@
 
 ### Mechanical Design · Precision Metrology · Technical Project Delivery
 
-Based in Ottawa, Canada, I design and validate precision mechanical systems, metrology equipment, automated test benches, and special-purpose machines. My work connects requirements, CAD, prototyping, verification, calibration, and production transfer.
+I design and validate precision mechanical systems, metrology equipment, automated test benches, and special-purpose machines. My work connects requirements, CAD, prototyping, verification, calibration, and production transfer.
 
 [Explore the portfolio](https://sct-engineeringworks.github.io) · [Voir le résumé en français](#résumé-en-français)
 
@@ -52,5 +52,5 @@ I am building public, reproducible engineering demonstrations in precision metro
 
 ## Résumé en français
 
-Concepteur mécanique basé à Ottawa, spécialisé en métrologie de précision, machines spéciales et conduite de projets techniques. Mon travail relie les exigences, la conception, le prototypage, la validation, l'étalonnage et le transfert vers la production.
+Concepteur mécanique, spécialisé en métrologie de précision, machines spéciales et conduite de projets techniques. Mon travail relie les exigences, la conception, le prototypage, la validation, l'étalonnage et le transfert vers la production.
 
