@@ -32,6 +32,7 @@ Python, MATLAB, VBA, SolidWorks Simulation, robotic calibration, computer vision
 
 ## Selected work
 
+- [Axiomatic design of an AM test artifact](https://sct-engineeringworks.github.io/projects/axiomatic-am-test-artifact/) - requirements-led artifact design, NC718 LPBF manufacture, laser point-cloud processing, tactile CMM inspection, and technical project delivery.
 - [Automated optical test bench](https://sct-engineeringworks.github.io/projects/optical-test-bench/) - precision improvement, validation, and production transfer.
 - [National reference form-metrology system](https://sct-engineeringworks.github.io/projects/national-form-metrology/) - ultra-precision architecture and cross-functional delivery.
 - [3D optical calibration reference](https://sct-engineeringworks.github.io/projects/3d-calibration-reference/) - repeatable full-field sensor calibration across 2 production sites.
@@ -53,4 +54,3 @@ I am building public, reproducible engineering demonstrations in precision metro
 ## Résumé en français
 
 Concepteur mécanique, spécialisé en métrologie de précision, machines spéciales et conduite de projets techniques. Mon travail relie les exigences, la conception, le prototypage, la validation, l'étalonnage et le transfert vers la production.
-
